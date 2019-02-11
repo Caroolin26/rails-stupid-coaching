@@ -1,0 +1,40 @@
+body {
+  background: #FFFDFC;
+  font-family: Lato;
+}
+
+#question {
+  border-left: 6px #FF6959 solid;
+  padding: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+  background-color: #FFEFE7;
+}
+
+#question:hover {
+  transition: all 0.5s ease;
+  background-color: #FFC6A7;
+}
+
+
+h1 {
+  text-align: center;
+  color: #FF6E46;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+#placeholder {
+  padding: 6px;
+  border: pink 1px solid;
+  margin-right: 25px;
+  background-color: #FFFDFC;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.fa-baseball-ball {
+  padding-right: 20px;
+  size: 20px;
+}
+
